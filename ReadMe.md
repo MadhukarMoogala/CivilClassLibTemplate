@@ -42,8 +42,12 @@ cd CivilClassLibTemplate
 To install the template, navigate to the cloned directory and run:
 
 ```bash
+cd Civil
 dotnet new install .
 ```
+
+![image](https://github.com/user-attachments/assets/1db22bcb-1d01-48bd-b7df-588105a2e49b)
+
 
 ### Creating a New Project from the Template
 
@@ -52,12 +56,17 @@ To create a new project using the installed template, run:
 ```bash
 dotnet new civil --rootNamespace=ProjectName -o ProjectName
 ```
+![image](https://github.com/user-attachments/assets/138331f6-c1e4-4cc7-ba73-27c75abd5ebc)
+
 
 ### Building the Project
 
 1. Open the solution in Visual Studio.
 2. Restore the NuGet packages.
 3. Build the project.
+   
+![image](https://github.com/user-attachments/assets/9edce182-e656-4f30-aa48-bb2de5f9cfe7)
+
 
 ### Running the Command
 
