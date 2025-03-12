@@ -32,7 +32,7 @@ Cmd.cs
 To clone the repository, run the following command:
 
 ```bash
-git clone https://github.com/yourusername/CivilClassLibTemplate.git
+git clone https://github.com/MadhukarMoogala/CivilClassLibTemplate.git
 cd CivilClassLibTemplate
 
 ```
